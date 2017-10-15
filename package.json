@@ -6,7 +6,8 @@
   "author": "jiyinyiyong <jiyinyiyong@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "hs --cors -p8100 -s"
+    "serve": "hs --cors -p8100 -s",
+    "cdn": "rsync -r cdn/* tiye.me:cdn/favored-fonts/"
   },
   "devDependencies": {
     "http-server": "^0.10.0"

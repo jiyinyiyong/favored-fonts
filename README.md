@@ -11,7 +11,7 @@ Mainly about icons and fonts:
 ### Usage
 
 ```html
-<link rel="stylesheet" href="http://repo-cdn.b0.upaiyun.com/favored-fonts/main.css" />
+<link rel="stylesheet" href="http://cdn.tiye.me/favored-fonts/main.css" />
 ```
 
 ### Upload
@@ -19,7 +19,7 @@ Mainly about icons and fonts:
 Upload with:
 
 ```bash
-cat filelist.text | xargs -I % upx put % favored-fonts/%
+yarn cdn
 ```
 
 ### License
