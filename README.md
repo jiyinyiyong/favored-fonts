@@ -10,6 +10,10 @@ Mainly about icons and fonts:
 
 ### Usage
 
+```
+http://cdn.tiye.me/favored-fonts/main.css
+```
+
 ```html
 <link rel="stylesheet" href="http://cdn.tiye.me/favored-fonts/main.css" />
 ```
