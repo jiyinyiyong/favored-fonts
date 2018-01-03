@@ -18,6 +18,12 @@ http://cdn.tiye.me/favored-fonts/main.css
 <link rel="stylesheet" href="http://cdn.tiye.me/favored-fonts/main.css" />
 ```
 
+Or use [font-awesome](https://fontawesome.com/get-started/web-fonts-with-css):
+
+```
+http://cdn.tiye.me/favored-fonts/main.css
+```
+
 ### Upload
 
 Upload with:
