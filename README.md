@@ -21,7 +21,7 @@ http://cdn.tiye.me/favored-fonts/main.css
 Or use [font-awesome](https://fontawesome.com/get-started/web-fonts-with-css):
 
 ```
-http://cdn.tiye.me/favored-fonts/main.css
+http://cdn.tiye.me/favored-fonts/main-2.css
 ```
 
 ### Upload
