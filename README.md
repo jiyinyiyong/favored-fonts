@@ -6,6 +6,7 @@ Mainly about icons and fonts:
 
 * https://fonts.googleapis.com/css?family=Hind:300,400,500
 * https://fonts.googleapis.com/css?family=Josefin+Sans:100,300,400
+* https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;500&display=swap
 * https://github.com/ionic-team/ionicons/releases/tag/v2.0.1
 
 ### Usage
@@ -37,3 +38,5 @@ yarn cdn
 Hind and Josefin Sans http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web
 
 Ionicons https://github.com/ionic-team/ionicons#license
+
+Roboto Mono https://fonts.google.com/specimen/Roboto+Mono#license
