@@ -9,7 +9,5 @@
     "serve": "http-server cdn --cors -p8100 -s",
     "cdn": "rsync -rv cdn/* tiye.me:cdn/favored-fonts/ --delete"
   },
-  "devDependencies": {
-    "http-server": "^0.10.0"
-  }
+  "devDependencies": {}
 }
